@@ -58,6 +58,7 @@ Ao adicionar o seu nome, por favor observe:
 | Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
 | Nicholas Borba                | nicholasborba@gmail.com               | https://github.com/nkborba            |
 | Rafael De Souza Santos        | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
+| Ramon Mulin Lopes             | ramonmulin@disroot.org                | https://github.com/mulinlord          |
 | Rodrigo Duarte de O. Toledo   | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7     |
 | Rodrigo Vaz De Oliveira       | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
 | Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo        |
@@ -70,4 +71,3 @@ Ao adicionar o seu nome, por favor observe:
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
 | Wesley de Assis               | wesleyassis455@gmail.com              | https://github.com/Choco02            |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
-| Ramon Mulin Lopes             | ramonmulin@disroot.org                | https://github.com/mulinlord          |
